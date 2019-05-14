@@ -23,7 +23,7 @@ class gamescore {
 
 int GameEnde (signal){
   if(signal == True){
-    Havayı kapat ==
+   int Havayı_kapat == 0;
   }
   
 }
